@@ -32,7 +32,6 @@ if(temp>=0)
 if(lowest>temp)
 {
 ff[i]=j;
-
 lowest=temp;
 }
 }
